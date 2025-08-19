@@ -50,11 +50,21 @@
 
 [![StephaneBah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StephaneBah&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 📈 Annual Contribution Overview
+
+<div align="center">
+  <a href="https://skyline.github.com/StephaneBah/2024" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub Skyline-View%20My%203D%20Contribution%20Graph-blue?style=for-the-badge&logo=github" alt="GitHub Skyline" />
+  </a>
+</div>
+
+<!---
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/StephaneBah/StephaneBah/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+</div> 
+--->
 
 ---
 
