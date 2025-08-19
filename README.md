@@ -53,11 +53,13 @@
 ## 🌐 Contribution Overview
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephaneBah&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StephaneBah&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StephaneBah&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StephaneBah&show_icons=true&count_private=true&hide_border=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 <!---
